@@ -12,6 +12,7 @@ Key Features
   - Tailwind CSS v4
   - Axios
   - React Router v6
+
 Backend :
   - Node.js
   - Express.js
