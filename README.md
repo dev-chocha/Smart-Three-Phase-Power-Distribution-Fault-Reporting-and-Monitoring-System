@@ -6,6 +6,7 @@ Key Features
 - **Analytics Dashboard:** Visual representation of grid efficiency, power consumption, and load distribution.
 - **Modern & Responsive UI:** Designed with Tailwind CSS v4 and Lucide React icons for a clean user experience.
 - **Lightning-Fast Performance:** Powered by Vite and React 18 for seamless component rendering.
+
  Frontend :
   - React 18
   - Tailwind CSS v4
