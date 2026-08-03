@@ -1,0 +1,2 @@
+# Smart-Three-Phase-Power-Distribution-Fault-Reporting-and-Monitoring-System
+A full-stack MERN web application designed to improve power distribution management in rural areas by enabling citizens to report electrical faults, monitor complaint status, check real-time electricity availability, and view three-phase electricity schedules. The system also provides an admin dashboard and electricity status updates.
